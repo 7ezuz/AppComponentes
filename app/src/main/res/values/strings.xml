@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppComponentes</string>
+    <string name="btnIngresar">BOTON INGRESAR</string>
+    <string name="ValIngresar">Ingresar a la App</string>
+</resources>
